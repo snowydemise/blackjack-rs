@@ -20,7 +20,7 @@ See also the list of
 who participated in this project.
 
 - **snowydemise** - _wrote the code lmfao_ - [snowydemise](https://github.com/snowydemise)
-- **Shaan Khan** - _Provided Created README Generator_ - [Shaan Khan](https://github.com/ShaanCoding)
+- **Shaan Khan** - _Created README Generator_ - [Shaan Khan](https://github.com/ShaanCoding)
 - **Billie Thompson** - _Provided README Template_ - [PurpleBooth](https://github.com/PurpleBooth)
 
 
