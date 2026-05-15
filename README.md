@@ -3,10 +3,6 @@
 
 A simple beginner CLI blackjack port! Play a fun game of blackjack within your terminal!
 
-## Getting Started
-
-These instructions will give you a copy of the project to mess with on your own computer!
-
 ### Prerequisites
 
 Requirements for the software
