@@ -3,7 +3,7 @@
 
 A simple beginner CLI blackjack port! Play a fun game of blackjack within your terminal!
 
-### Prerequisites
+## Prerequisites
 
 Requirements for the software
 - [Rust](https://doc.rust-lang.org/cargo/getting-started/installation.html)
